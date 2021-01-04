@@ -1,0 +1,37 @@
+body {
+  background: AntiqueWhite;
+} /* Sets the background */
+
+.block {
+  margin: 1%;
+}
+
+.title{
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  padding: 20px;
+} /* Sets the style of the title. */
+
+.container {
+  padding: 1%;
+  height: 125px;
+}
+
+.quote{
+  font-family: serif;
+  font-size: 150%;
+  
+} /* Sets the style for the quotes. */
+
+.author{
+  font-size: 120%;
+  font-style: italic;
+} /* Sets the style for the author's name. */
+
+.button {
+  text-align: center;
+  color: white;
+  margin: auto;
+  display: block;
+} /* Sets the style for the buttons. */
